@@ -17,6 +17,8 @@ enum Category: String {
     case noNo = "Не важное не срочное"
 }
 //
+// ------ for GitHub...
+//
 
 enum ToDoStatus: String {
     case new = "Новая"
