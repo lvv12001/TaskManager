@@ -16,6 +16,7 @@ enum Category: String {
     case urgent = "Не важное срочное"
     case noNo = "Не важное не срочное"
 }
+//
 
 enum ToDoStatus: String {
     case new = "Новая"
